@@ -1,6 +1,6 @@
-### Hi there 👋
-<p> <img src="./avatar.gif" style="text-align:center;border-radius:7px;width:60px"/> <b>Ordinary dream chaser</b> </p>
-
+### Ordinary dream chaser
+<p> <img src="./avatar.gif" style="text-align:center;border-radius:7px;width:60px"/></p>
+#### coding everyday 👋
 
 <!--
 **ASWLaunchs/ASWLaunchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
