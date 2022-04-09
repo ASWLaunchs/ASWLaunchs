@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p><img src="./avatar.gif" style="text-align:center;border-radius:7px;"/></p>
+<p><img src="./avatar.gif" style="text-align:center;border-radius:7px;width:45px"/></p>
 Ordinary dream chaser
 
 <!--
