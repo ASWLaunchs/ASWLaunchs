@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 Personal Page
 https://aswlaunchs.github.io/
 
+<!--END_SECTION:waka-->
+![ASWLaunchs's github activity graph](https://activity-graph.herokuapp.com/graph?username=ASWLaunchs&theme=react-dark)
+
 ## Visitors*
 ![Visitor Count](https://profile-counter.glitch.me/aswlaunchs/count.svg)
 *<p align="right">&#42;In millions</p>*
