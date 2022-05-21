@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Stats | language | myself
+ Stats | language 
 --- | --- | ---
-[![ASWLuanchs's GitHub 数据](https://github-readme-stats.vercel.app/api?username=ASWLaunchs)]() | ![ASWLaunchs's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWLaunchs&layout=compact&hide_border=true&langs_count=10) | <img src="./avatar.gif" style="text-align:center;border-radius:7px;width:60px"/>
-
+[![ASWLuanchs's GitHub 数据](https://github-readme-stats.vercel.app/api?username=ASWLaunchs)]() | ![ASWLaunchs's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWLaunchs&layout=compact&hide_border=true&langs_count=10) 
 Personal Page
 https://aswlaunchs.github.io/
 
