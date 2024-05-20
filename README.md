@@ -1,6 +1,6 @@
 
 ## coding everyday 👋
-
+**Don’t be trapped in the future technical trap, everything is based on the current available maintenance and maintenance**
 <!--
 **ASWLaunchs/ASWLaunchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
